@@ -1,7 +1,7 @@
 # 21-S1-2-C-Cinema
-# Project Introduction and Management Repo: https://github.com/ch4ser/21-S1-2-C-Cinema.git
+Project Introduction and Management Repo: https://github.com/ch4ser/21-S1-2-C-Cinema.git
 # ANU Tech Launcher Project 21-S1-2-C-Cinema User Manual
-# Check User Manual.pdf for details
+Check User Manual.pdf for details
 1. How to use trained model to process new videos
 1.1 Operation guide
 The main script of the project is Detect_main.py. It contains three functions, which are used to detect age and gender, facial expressions and action behaviours. You only need to run this script and enter the path of the source video in the console to get the final output.
