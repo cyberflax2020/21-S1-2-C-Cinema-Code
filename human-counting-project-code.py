@@ -118,5 +118,5 @@ if __name__ == "__main__":
     HOGCV = cv2.HOGDescriptor()
     HOGCV.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
 
-    args = {'video': './double_dance.mp4', 'image': '', 'camera': False, 'output': './output.mp4'}
+    args = {'video': './video/yt video/double_dance.mp4', 'image': '', 'camera': False, 'output': './output.mp4'}
     humanDetector(args)
